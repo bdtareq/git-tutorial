@@ -6,4 +6,10 @@ class User {
 
         echo "This is Home page";
     }
+
+
+    public function add($x, $y){
+
+        return $x + $y;
+    }
 }
