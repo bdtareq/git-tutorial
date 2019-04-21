@@ -8,8 +8,15 @@ class User {
     }
 
 
+
     public function add($x, $y){
 
         return $x + $y;
+    }
+    
+    public function squre($i){
+
+        return $i * $i;
+
     }
 }
