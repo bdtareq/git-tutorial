@@ -8,8 +8,8 @@ class User {
     }
 
 
-    public function sub($x, $y){
+    public function squre($i){
 
-        return $x - $y;
+        return $i * $i;
     }
 }
