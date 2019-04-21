@@ -8,14 +8,8 @@ class User {
     }
 
 
-<<<<<<< HEAD
-    public function sub($x, $y){
-
-        return $x - $y;
-=======
     public function add($x, $y){
 
         return $x + $y;
->>>>>>> branchA
     }
 }
